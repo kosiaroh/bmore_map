@@ -13,7 +13,8 @@
     "dotenv": "^7.0.0",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
-    "react-map-gl": "^3.3.0"
+    "react-map-gl": "^3.3.0",
+    "next": "1.0.0"
   },
   "devDependencies": {
     "buble": "^0.19.3",
