@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {
     "start-local": "webpack-dev-server --env.local --progress --hot --open",
-    "start": "webpack-dev-server --progress --hot --open"
+    "start": "webpack-dev-server --progress --hot --open",
+    "now-build": "next build",
+    "build": "webpack"
   },
   "dependencies": {
     "deck.gl": "^6.4.0",
