@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "name": "bmore_map",
   "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
